@@ -1,0 +1,9 @@
+﻿  function.c
+function.c(32): warning C4047: 'return': 'DWORD' differs in levels of indirection from 'PDEBUG_BREAKPOINT'
+function.c(53): warning C4047: 'initializing': 'PDEBUG_BREAKPOINT' differs in levels of indirection from 'DWORD'
+  Generating code
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  winmineDebuger.vcxproj -> C:\Users\roman\source\repos\winmineDebuger\Release\winmineDebuger.exe

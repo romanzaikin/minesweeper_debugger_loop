@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\roman\source\repos\winminedebuger\winminedebuger\main.c(85): warning C4133: 'function': incompatible types - from 'unsigned short [35]' to 'LPCSTR'
+c:\users\roman\source\repos\winminedebuger\winminedebuger\main.c(117): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+c:\users\roman\source\repos\winminedebuger\winminedebuger\main.c(117): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+c:\users\roman\source\repos\winminedebuger\winminedebuger\main.c(117): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\roman\source\repos\winminedebuger\winminedebuger\main.c(117): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  winmineDebuger.vcxproj -> C:\Users\roman\source\repos\winmineDebuger\Debug\winmineDebuger.exe
